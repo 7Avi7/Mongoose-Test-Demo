@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 499.99,
+      "description": "A high-quality smartphone with advanced features.",
+      "category": "Electronics",
+      "image": "https://example.com/smartphone.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "Powerful laptop for work and entertainment.",
+      "category": "Electronics",
+      "image": "https://example.com/laptop.jpg"
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "price": 19.99,
+      "description": "Comfortable cotton t-shirt for everyday wear.",
+      "category": "Clothing",
+      "image": "https://example.com/t-shirt.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 79.99,
+      "description": "Lightweight and supportive shoes for running.",
+      "category": "Footwear",
+      "image": "https://example.com/running-shoes.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Coffee Maker",
+      "price": 39.99,
+      "description": "Brew delicious coffee at home with this coffee maker.",
+      "category": "Kitchen",
+      "image": "https://example.com/coffee-maker.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Headphones",
+      "price": 49.99,
+      "description": "High-quality headphones for immersive audio experience.",
+      "category": "Electronics",
+      "image": "https://example.com/headphones.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Backpack",
+      "price": 29.99,
+      "description": "Durable backpack with multiple compartments for storage.",
+      "category": "Accessories",
+      "image": "https://example.com/backpack.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sunglasses",
+      "price": 59.99,
+      "description": "Stylish sunglasses with UV protection.",
+      "category": "Accessories",
+      "image": "https://example.com/sunglasses.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "description": "Convenient wireless mouse for your computer.",
+      "category": "Electronics",
+      "image": "https://example.com/wireless-mouse.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Yoga Mat",
+      "price": 24.99,
+      "description": "Non-slip yoga mat for comfortable practice sessions.",
+      "category": "Fitness",
+      "image": "https://example.com/yoga-mat.jpg"
+    }
+  ]
+}
